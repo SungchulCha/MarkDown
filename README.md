@@ -5,7 +5,7 @@
 ## 0. How to Run Jupyter
   + ### Anaconda Prompt
   + ### jupyter notebook
-
+---
 
 ## <br>1. Header
    + ## H1
@@ -44,7 +44,7 @@
              ###### H6
              <h6>H6</h6>
          ```
-
+---
 
 ## <br>2. Line Breaks
    ```
@@ -52,7 +52,7 @@
       Hello</br>World
       Hello<br>World
    ```
-
+---
 
 ## <br>3. Emphasis
   - ### *italic*
@@ -76,7 +76,7 @@
      ```
         <u>Underline</u>
      ``` 
-
+---
 
 ## <br>4. Horizontal Rules
   - ***
@@ -85,7 +85,7 @@
         ---
         ___
      ```
-
+---
 
 ## <br>5. Code Block
   - `Inline Code`
@@ -105,7 +105,7 @@
         This is a C++
         ```
     ~~~
-
+---
 
 ## <br>6. Block Quotes
 2. 리스트
