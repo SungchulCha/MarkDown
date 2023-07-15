@@ -3,8 +3,8 @@
 ***
 
 ## 0. How to Run Jupyter
-   1. Anaconda Prompt
-   2. jupyter notebook
+  + ### Anaconda Prompt
+  + ### jupyter notebook
 
 
 ## 1. Header
@@ -46,14 +46,73 @@
          ```
 
 
-2. 줄바꿈
-3. 텍스트
-4. 코드 블럭
-5. 구분선
-6. 인용문
-7. 리스트
-8. 체크박스
-9.  테이블
-10. 링크
-11. 이미지
-12. 인라인
+## 2. Line Breaks
+   ```
+      Hello<br/>World
+      Hello</br>World
+      Hello<br>World
+   ```
+
+
+## 3. Emphasis
+  - ### *italic*
+     ```
+        *italic*
+        _italic_
+        <i>italic</i>
+     ```
+  -  ### **Bold**
+     ```
+        **Bold**
+        __Bold__
+        <b>Bold</b>
+     ```
+  - ### Cancel Line
+     ```
+        ~~Cancelline~~
+        <del>Canceline</del>
+     ```
+  - ### Under Line
+     ```
+        <u>Underline</u>
+     ``` 
+
+
+## 4. Horizontal Rules
+  - ***
+     ```
+        ***
+        ---
+        ___
+     ```
+
+
+## 5. Code Block
+  - `Inline Code`
+     ```
+        `Inline Code`
+     ```
+  - ```Python
+      This is a Python
+    ```
+     ```        
+        ~~~Python
+        This is a Python
+        ~~~
+     ```
+    ~~~
+        ```C++
+        This is a C++
+        ```
+    ~~~
+
+
+## 6. Block Quotes
+2. 리스트
+3. 체크박스
+4.  테이블
+5.  링크
+6.  이미지
+7.  인라인
+
+
