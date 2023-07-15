@@ -7,7 +7,7 @@
   + ### jupyter notebook
 
 
-## 1. Header
+## <br>1. Header
    + ## H1
      + # H1
          ```
@@ -46,7 +46,7 @@
          ```
 
 
-## 2. Line Breaks
+## <br>2. Line Breaks
    ```
       Hello<br/>World
       Hello</br>World
@@ -54,7 +54,7 @@
    ```
 
 
-## 3. Emphasis
+## <br>3. Emphasis
   - ### *italic*
      ```
         *italic*
@@ -78,7 +78,7 @@
      ``` 
 
 
-## 4. Horizontal Rules
+## <br>4. Horizontal Rules
   - ***
      ```
         ***
@@ -87,7 +87,7 @@
      ```
 
 
-## 5. Code Block
+## <br>5. Code Block
   - `Inline Code`
      ```
         `Inline Code`
@@ -107,7 +107,7 @@
     ~~~
 
 
-## 6. Block Quotes
+## <br>6. Block Quotes
 2. 리스트
 3. 체크박스
 4.  테이블
